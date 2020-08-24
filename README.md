@@ -1,0 +1,3 @@
+# Location_of_New_Cafe
+
+Starting a new business requires a lot of steps and considerations before it becomes official, one of the most important things that should be carefully explored is its location. For this project, the goal was to examine the best location for opening a new cafe in Syracuse, New York, United States, based on the information of the neighborhood, the distribution of competitors in each neighborhood. By understanding the business goal, whether we want less competition or we have unique selling propositions to stand out from the competition, we can pick the most ideal location through this kind of analysis.
